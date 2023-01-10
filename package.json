@@ -1,0 +1,17 @@
+{
+  "name": "ex03",
+  "version": "1.0.0",
+  "description": "3rd course assignment - implementing calculator server",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ohad Segal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "winston": "^3.8.2"
+  }
+}
